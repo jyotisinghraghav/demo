@@ -1,6 +1,7 @@
 <?php
 /**
  * CodeIgniter
+ edited [h[
  *
  * An open source application development framework for PHP
  *
